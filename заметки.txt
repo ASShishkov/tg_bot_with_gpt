@@ -1,0 +1,14 @@
+93 MR tj W 7 h Z 79 y KL 9
+
+IP 80.85.246.75
+User root
+Password 93MRtjW7hZ79yKL9
+роООооЮЮCCSDCss
+
+
+cat ~/.ssh/authorized_keys
+
+
+ssh root@80.85.246.75
+
+ssh-keygen -t rsa -b 4096 -C "asshishkov@gmail.com"
